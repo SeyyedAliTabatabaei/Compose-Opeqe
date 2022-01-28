@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compose Opeqe</string>
+    <string name="title_activity_details_user">DetailsUser</string>
+    <string name="users">Users</string>
+    <string name="error_connection">Connection error</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="cell">Cell</string>
+    <string name="location">Location</string>
+    <string name="search_hint">Search name here...</string>
+
+</resources>

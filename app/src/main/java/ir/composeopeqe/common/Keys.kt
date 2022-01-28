@@ -1,0 +1,1 @@
+package ir.composeopeqe.commonconst val EXTRA_KEY = "data"

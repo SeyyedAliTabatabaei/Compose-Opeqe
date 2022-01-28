@@ -1,0 +1,1 @@
+package ir.composeopeqe.serviceimport ir.composeopeqe.data.Usersimport retrofit2.http.GETimport retrofit2.http.Queryinterface ApiService {    @GET("api/")    suspend fun getListUser(@Query("results") numberUsers : Int) : Users}
